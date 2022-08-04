@@ -6,4 +6,4 @@
 * online portal: coming soon
 * code: github(coming soon)
 * input swc files: [NeuroMorpho.Org](https://neuromorpho.org/)
-* results: [XLSX](https://chen328730.github.io/database/media/results.xlsx)
+* results: [XLSX](media/results.xlsx)
