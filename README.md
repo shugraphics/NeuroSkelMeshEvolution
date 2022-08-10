@@ -10,6 +10,31 @@
 
 
 
+    .main-container {
+        display: flex;
+    }    
+
+    .body-container {
+        display: flex;
+    }
+
+    export default {
+        name: 'DefaultLayout',
+        components: {
+            MyHeader,
+        },
+        mounted: function () {
+            this.$nextTick(function () {
+                var div = document.querySelector('.main-container');
+                div.style.height = window.innerHeight + 'px';
+                console.log('mounted: ', div);
+                console.log('mounted: ', window.innerHeight);
+            })
+        },
+    };
+
+
+
 |      | SWC file Properties |                                                      |                   |                         |                           |                            |                           | Mesh Attributes    |                    |                    |                    |               |               |               |                         |                  |                    |                        |                               |           |             |                                                              |                                                              |      |      |      |      |      |      |      |
 | ---- | ------------------- | ---------------------------------------------------- | ----------------- | ----------------------- | ------------------------- | -------------------------- | ------------------------- | ------------------- | ------------------ | ------------------ | ------------------ | ------------- | ------------- | ------------- | ----------------------- | ---------------- | ------------------ | ---------------------- | ----------------------------- | --------- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |      | NeuroMorpho.Org  ID | Cell Name                                            | Archive Name      | Species Name            | Primary Brain Region      | Average Bifurcation  Angle | Number of  Skeleton Nodes | Average Edge Length | Minimum Facet Area | Maximum Facet Area | Average Facet Area | Minimum Angle | Maximum Angle | Average Angle | Angle Mean Square Error | Number of Facets | Number of Vertices | Average Vertex Valence | Non-regular Vertex Percentage | Manifold? | Watertight? | Angle Distribution                                           | Vertex Valence Distribution                                  |      |      |      |      |      |      |      |
