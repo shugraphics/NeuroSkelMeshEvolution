@@ -1,11 +1,3 @@
-
-pre {
-  overflow-y: auto;
-  max-height: 300px;
-}
-
-
-
 # NeuroSkelMeshEvolution
 <img src="media/NeuroSkelMeshEvolution.jpg" rowspan="3" width="400" height="122" alt="NeuroSkelMeshEvolution.jpg"/>
 
@@ -17,7 +9,25 @@ pre {
 * results: [XLSX](media/results.xlsx)
 
 
+<style type="text/css"> 
+    .MainDIV  
+  {   
+     position:absolute;  
+     left:0pix; 
+     top:0pix; 
+     width:0pix; 
+     height:0pix; 
+     background: #ffb6b9;
+     overflow-x:auto; 
+     overflow-y:auto; 
+     float: right; 
+     border-style.:solid; 
+     border-width:;  
+     border-color:blue 
+  } 
+</style>
 
+<div  class="maindiv">
 |      | SWC file Properties |                                                      |                   |                         |                           |                            |                           | Mesh Attributes    |                    |                    |                    |               |               |               |                         |                  |                    |                        |                               |           |             |                                                              |                                                              |      |      |      |      |      |      |      |
 | ---- | ------------------- | ---------------------------------------------------- | ----------------- | ----------------------- | ------------------------- | -------------------------- | ------------------------- | ------------------- | ------------------ | ------------------ | ------------------ | ------------- | ------------- | ------------- | ----------------------- | ---------------- | ------------------ | ---------------------- | ----------------------------- | --------- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |      | NeuroMorpho.Org  ID | Cell Name                                            | Archive Name      | Species Name            | Primary Brain Region      | Average Bifurcation  Angle | Number of  Skeleton Nodes | Average Edge Length | Minimum Facet Area | Maximum Facet Area | Average Facet Area | Minimum Angle | Maximum Angle | Average Angle | Angle Mean Square Error | Number of Facets | Number of Vertices | Average Vertex Valence | Non-regular Vertex Percentage | Manifold? | Watertight? | Angle Distribution                                           | Vertex Valence Distribution                                  |      |      |      |      |      |      |      |
@@ -270,4 +280,4 @@ pre {
 | 247  | NMO_70557           | 01_M_L_a                                             | Argue             | rat                     | amygdala                  | 115°                       | 221                       | 5.24                | 0.24               | 6.87               | 0.45               | 19.54         | 131.58        | 60.00         | 16.52                   | 227020           | 113510             | 6.00                   | 76.98%                        | t         | t           | ![img](media/pictures/clip_image276.png) | ![img](media/pictures/clip_image167.png) |      |      |      |      |      |      |      |
 | 248  | NMO_70558           | 01_M_L_b                                             | Argue             | rat                     | amygdala                  | 116.66°                    | 432                       | 3.05                | 0.2                | 17.96              | 0.93               | 17.71         | 133.78        | 60.00         | 16.55                   | 271698           | 135851             | 6.00                   | 77.30%                        | t         | t           | ![img](media/pictures/clip_image155.png) | ![img](media/pictures/clip_image2.png) |      |      |      |      |      |      |      |
 |      |                     |                                                      |                   |                         |                           |                            |                           |                     |                    |                    |                    |               |               |               |                         |                  |                    |                        |                               |           |             |                                                              |                                                              |      |      |      |      |      |      |      |
-
+</div>
