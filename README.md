@@ -1,7 +1,8 @@
 <style>
 pre {
-  overflow-y: auto;
-  max-height: 300px;
+  white-space: pre !important;
+  overflow-y: scroll !important;
+  height: 50vh !important;
 }
 </style>
 
