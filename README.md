@@ -1,10 +1,11 @@
 <style>
 pre {
-  white-space: pre !important;
-  overflow-y: scroll !important;
-  height: 50vh !important;
+  overflow-y: auto;
+  max-height: 300px;
 }
 </style>
+
+
 
 # NeuroSkelMeshEvolution
 <img src="media/NeuroSkelMeshEvolution.jpg" rowspan="3" width="400" height="122" alt="NeuroSkelMeshEvolution.jpg"/>
@@ -15,6 +16,7 @@ pre {
 * code: github(coming soon)
 * input swc files: [NeuroMorpho.Org](https://neuromorpho.org/)
 * results: [XLSX](media/results.xlsx)
+
 
 
 |      | SWC file Properties |                                                      |                   |                         |                           |                            |                           | Mesh Attributes    |                    |                    |                    |               |               |               |                         |                  |                    |                        |                               |           |             |                                                              |                                                              |      |      |      |      |      |      |      |
