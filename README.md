@@ -1,5 +1,9 @@
-<div style="overflow-x:auto;overflow-y:auto;max-height:300px">
-  
+<style>
+pre {
+  overflow-y: auto;
+  max-height: 300px;
+}
+</style>
   
   
 # NeuroSkelMeshEvolution
@@ -13,47 +17,7 @@
 * results: [XLSX](media/results.xlsx)
 
 
-
-<style type="text/css"> 
-    .MainDIV  
-  {   
-     position:absolute;  
-     left:0%; 
-     top:0%; 
-     width:50%; 
-     height:50%; 
-     background: #ff5500;
-     overflow-x:auto; 
-     overflow-y:auto; 
-     float: right; 
-     border-style.:solid; 
-     border-width:;  
-     border-color:blue 
-  } 
-</style>
-
-<div  class="maindiv">
-<p>fejfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiweiwfjew</P>
-
-<p>fejfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiw
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```css
 |      | SWC file Properties |                                                      |                   |                         |                           |                            |                           | Mesh Attributes    |                    |                    |                    |               |               |               |                         |                  |                    |                        |                               |           |             |                                                              |                                                              |      |      |      |      |      |      |      |
 | ---- | ------------------- | ---------------------------------------------------- | ----------------- | ----------------------- | ------------------------- | -------------------------- | ------------------------- | ------------------- | ------------------ | ------------------ | ------------------ | ------------- | ------------- | ------------- | ----------------------- | ---------------- | ------------------ | ---------------------- | ----------------------------- | --------- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |      | NeuroMorpho.Org  ID | Cell Name                                            | Archive Name      | Species Name            | Primary Brain Region      | Average Bifurcation  Angle | Number of  Skeleton Nodes | Average Edge Length | Minimum Facet Area | Maximum Facet Area | Average Facet Area | Minimum Angle | Maximum Angle | Average Angle | Angle Mean Square Error | Number of Facets | Number of Vertices | Average Vertex Valence | Non-regular Vertex Percentage | Manifold? | Watertight? | Angle Distribution                                           | Vertex Valence Distribution                                  |      |      |      |      |      |      |      |
@@ -307,3 +271,4 @@
 | 248  | NMO_70558           | 01_M_L_b                                             | Argue             | rat                     | amygdala                  | 116.66°                    | 432                       | 3.05                | 0.2                | 17.96              | 0.93               | 17.71         | 133.78        | 60.00         | 16.55                   | 271698           | 135851             | 6.00                   | 77.30%                        | t         | t           | ![img](media/pictures/clip_image155.png) | ![img](media/pictures/clip_image2.png) |      |      |      |      |      |      |      |
 |      |                     |                                                      |                   |                         |                           |                            |                           |                     |                    |                    |                    |               |               |               |                         |                  |                    |                        |                               |           |             |                                                              |                                                              |      |      |      |      |      |      |      |
 </div>
+```
