@@ -14,6 +14,46 @@
 
 
 
+<style type="text/css"> 
+    .MainDIV  
+  {   
+     position:absolute;  
+     left:0%; 
+     top:0%; 
+     width:50%; 
+     height:50%; 
+     background: #ff5500;
+     overflow-x:auto; 
+     overflow-y:auto; 
+     float: right; 
+     border-style.:solid; 
+     border-width:;  
+     border-color:blue 
+  } 
+</style>
+
+<div  class="maindiv">
+<p>fejfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiweiwfjew</P>
+
+<p>fejfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiwfjeiwfjewifjeiwfefjeifjeiwfjeiwfjweifjiwefjeiwfjeiw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 |      | SWC file Properties |                                                      |                   |                         |                           |                            |                           | Mesh Attributes    |                    |                    |                    |               |               |               |                         |                  |                    |                        |                               |           |             |                                                              |                                                              |      |      |      |      |      |      |      |
 | ---- | ------------------- | ---------------------------------------------------- | ----------------- | ----------------------- | ------------------------- | -------------------------- | ------------------------- | ------------------- | ------------------ | ------------------ | ------------------ | ------------- | ------------- | ------------- | ----------------------- | ---------------- | ------------------ | ---------------------- | ----------------------------- | --------- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |      | NeuroMorpho.Org  ID | Cell Name                                            | Archive Name      | Species Name            | Primary Brain Region      | Average Bifurcation  Angle | Number of  Skeleton Nodes | Average Edge Length | Minimum Facet Area | Maximum Facet Area | Average Facet Area | Minimum Angle | Maximum Angle | Average Angle | Angle Mean Square Error | Number of Facets | Number of Vertices | Average Vertex Valence | Non-regular Vertex Percentage | Manifold? | Watertight? | Angle Distribution                                           | Vertex Valence Distribution                                  |      |      |      |      |      |      |      |
