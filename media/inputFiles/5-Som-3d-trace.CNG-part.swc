@@ -1,0 +1,41 @@
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\Users\Carolina\Desktop\Quality_Check\postprocessing\Adke_Carrasquillo_Final\Source_Temp1//5-Som-3d-trace.KM.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Adke_Carrasquillo_Final\Source_Temp1//5-Som-3d-trace.CNG.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Auto swc//5-Som-3d-trace.asc.swc.CNG.swc
+#
+# Original file C:\NMO_dev\data_proc\Temp_LMeasure\5-Som-3d-trace.asc.swc edited using StdSwc version 1.31 on 7/8/21.
+# Irregularities and fixes documented in C:\NMO_dev\data_proc\Temp_LMeasure\5-Som-3d-trace.asc.swc.std.  See StdSwc1.31.doc for more information.
+#
+# Neurolucida to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Source_Temp1//5-Som-3d-trace.asc
+#The original file has a single soma contour that is averaged into 3 soma points
+# ORIGINAL_SOURCE 
+# CREATURE 
+# REGION 
+# FIELD/LAYER 
+# TYPE 
+# CONTRIBUTOR 
+# REFERENCE 
+# RAW 
+# EXTRAS 
+# SOMA_AREA 
+# SHRINKAGE_CORRECTION 
+# VERSION_NUMBER 
+# VERSION_DATE 
+# ********************************************* 
+# SCALE 1.0 1.0 1.0 
+ 1 1 0 0 0 5.886 -1
+ 2 1 -3.07 3.82 3.2 5.886 1
+ 3 1 3.08 -3.82 -3.21 5.886 1
+ 4 3 0.43 5.57 1.78 0.745 1
+ 5 3 0.3 6.98 1.69 0.445 4
+ 6 3 0.31 7.83 1.49 0.45 5
+ 7 3 0.33 8.6 1.31 0.47 6
+ 8 3 0.33 9.46 1.22 0.56 7
+ 9 3 4.6 -0.22 5.01 1.085 1
+ 10 3 4.81 -0.24 5.23 1.085 9
+ 
